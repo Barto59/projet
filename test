@@ -1,0 +1,6 @@
+echo "# projet" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Barto59/projet.git
+git push -u origin master
